@@ -1,0 +1,12 @@
+bochsout.txt
+
+boot\boot.img
+bin\kernel
+bin\after
+bin\loader
+src\kernel.hrb
+src\kernel.bim
+src\kernel.obj
+src\kernel.asm
+src\kernel.gas
+src\func.obj
